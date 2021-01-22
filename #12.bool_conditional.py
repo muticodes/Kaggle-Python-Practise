@@ -10,7 +10,7 @@ Created on Thu Jan 21 16:45:16 2021
 def f(x):
     if x > 0:
         print("Only printed when x is positive; x = ",x)
-        print("Also only print whe x is positive; x = ", x)
+        print("Also only printed when x is positive; x = ", x)
     print("Always printed, regardless of the value of x; x = ", x)
 
 f(1)
