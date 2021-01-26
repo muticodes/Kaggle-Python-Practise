@@ -3,7 +3,7 @@
 """
 Created on Tue Jan 26 17:09:41 2021
 
-@author: mutimw
+@author: muticodes
 """
 
 def select_second(L):
